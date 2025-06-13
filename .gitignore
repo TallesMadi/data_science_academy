@@ -2,3 +2,5 @@ venv
 .venv
 env
 .env
+gpt4.py
+token.txt
